@@ -40,9 +40,3 @@ eureka:
   instance:
     hostname: localhost
     prefer-ip-address: true
-
-# API
-api_base_uri: https://api.themoviedb.org/3
-api_key: ${api_key}
-
-
