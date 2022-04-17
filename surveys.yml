@@ -30,7 +30,7 @@ spring:
 
   # Kafka
   kafka:
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: 0:0:0:0:9092
 
 # Eureka Config
 eureka:
